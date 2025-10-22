@@ -1,0 +1,13 @@
+Date,Month,Category,Product,Quantity,UnitPrice
+2025-01-05,January,Electronics,Headphones,5,49.99
+2025-01-06,January,Electronics,Keyboard,3,79.90
+2025-01-09,January,Clothing,T-Shirt,10,19.99
+2025-01-12,January,Home,Blender,2,99.00
+2025-02-01,February,Clothing,Jeans,6,39.99
+2025-02-04,February,Home,Vacuum,1,129.99
+2025-02-08,February,Electronics,Mouse,4,24.99
+2025-02-11,February,Clothing,Jacket,2,79.99
+2025-03-03,March,Home,Toaster,3,49.00
+2025-03-06,March,Electronics,Monitor,2,189.99
+2025-03-09,March,Clothing,Shoes,4,59.99
+2025-03-12,March,Electronics,USB Cable,8,9.99
